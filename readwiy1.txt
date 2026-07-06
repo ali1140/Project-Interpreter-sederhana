@@ -1,0 +1,9 @@
+a=2+3/2*10-3
+b=a+20/2+2
+b=b+2
+c=b-a
+ulang:
+c=c+1
+nyetak('nilai c:',c)
+jika c<1000 
+goto ulang

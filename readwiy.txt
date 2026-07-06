@@ -1,0 +1,5 @@
+a=1
+ulang:
+a=a+1
+nyetak(a)
+jika a<10 goto ulang
